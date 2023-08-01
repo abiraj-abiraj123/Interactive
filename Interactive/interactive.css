@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:tomato;
+    padding-top: 40px;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    padding: 5px;
+    height: 23px;
+    margin-bottom: 30px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 3px;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: rgb(57, 214, 30);
+  }
+  
+  #greetingMessage {
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .name{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 15px;
+    font-size: large;
+  }
+
+  .button{
+    height: 10px;
+    width: 40px;
+  }
